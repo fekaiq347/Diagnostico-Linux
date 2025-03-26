@@ -226,10 +226,6 @@ Contribuições são bem-vindas! Se você deseja melhorar o script, corrigir err
 
 ## Contato
 
-- **Autor:** Seu Nome  
-- **E-mail:** seu.email@exemplo.com  
+- **Autor:** Kaique Eufrásio  
+- **E-mail:** kaiquefe@dcc.ufrj.br  
 - **GitHub:** [https://github.com/fekaiq347](https://github.com/fekaiq347)
-
----
-
-Este README detalha cada parte do script, explicando a finalidade e o funcionamento de cada módulo e função. Dessa forma, outros usuários e colaboradores poderão entender, utilizar e estender o projeto de forma eficaz. Sinta-se à vontade para ajustar as seções conforme as necessidades do seu projeto!
